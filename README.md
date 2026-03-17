@@ -4,6 +4,16 @@ Protótipo simples de **Autenticação Multi‑Fator (MFA)** com **Flask** em Py
 - 1.º fator: *username + password*
 - 2.º fator: **TOTP** (compatível com Google Authenticator, Authy, etc.)
 
+## Team Members
+Este projeto foi desenvolvido em colaboração por:
+* Miguel Bento (GitHub: mvbento)
+* Luís Lourenço (GitHub: lcmlo)
+* Ricardo Ourelo (GitHub: ricardo-ourelo)
+* Josué da Glória (GitHub: JosueGloria)
+
+## Documentação
+O relatório completo com a fundamentação teórica, análise de riscos e revisão de literatura encontra-se no ficheiro: [Secure_Access_SRSI_Theoretical.pdf](./Secure_Access_SRSI_Theoretical.pdf)
+
 ## 1) Pré‑requisitos
 - Python 3.11+
 - (Opcional) Ambiente virtual `venv`
@@ -99,3 +109,5 @@ Campo totp_secret contém textos iniciados por gAAAA...
 
 ## 9) Licença
 Uso académico/demonstração.
+
+

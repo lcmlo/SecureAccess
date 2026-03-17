@@ -9,7 +9,7 @@ Este projeto foi desenvolvido em colaboração por:
 * Miguel Bento (GitHub: mvbento)
 * Luís Lourenço (GitHub: lcmlo)
 * Ricardo Ourelo (GitHub: ricardo-ourelo)
-* Josué da Glória (GitHub: JosueGloria)
+* Josué da Glória (GitHub: josueclm)
 
 ## Documentação
 O relatório completo com a fundamentação teórica, análise de riscos e revisão de literatura encontra-se no ficheiro: [Secure_Access_SRSI_Theoretical.pdf](./Secure_Access_SRSI_Theoretical.pdf)
